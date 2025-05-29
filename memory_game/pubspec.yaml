@@ -1,0 +1,32 @@
+name: memory_game
+description: A simple 4x4 memory game
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/1.jpeg
+    - assets/2.jpeg
+    - assets/3.jpeg
+    - assets/4.jpeg
+    - assets/5.jpeg
+    - assets/6.jpeg
+    - assets/7.jpeg
+    - assets/8.jpeg
+   
+    - assets/mi_logo.png
+    - assets/mi_bg.jpeg
+    - assets/sounds/mismatch.wav
+    - assets/sounds/match.wav
+    - assets/sounds/gameover.wav

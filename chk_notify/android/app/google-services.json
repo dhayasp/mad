@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489504347963",
+    "project_id": "chknotify45",
+    "storage_bucket": "chknotify45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489504347963:android:d65ac0227dc5addbc7c91e",
+        "android_client_info": {
+          "package_name": "com.example.chk_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYQLV2mN6YEN88T2WpVhdcuGNoCFaWnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
